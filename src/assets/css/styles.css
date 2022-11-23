@@ -76,6 +76,10 @@
   width: 13rem; /* 208px */
 }
 
+.w-52 {
+  width: 13rem; /* 208px */
+}
+
 .w-96 {
   width: 24rem;
 }
@@ -140,8 +144,6 @@
   padding-left: 1rem;
 }
 
-
-
 .pt-4 {
   padding-top: 1rem;
 }
@@ -157,6 +159,10 @@
 
 .pr-2 {
   padding-right: 0.5rem; /* 8px */
+}
+
+.pb-2 {
+  padding-bottom: 0.5rem; /* 8px */;
 }
 
 .pt-2 {
